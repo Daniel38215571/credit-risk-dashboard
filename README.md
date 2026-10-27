@@ -51,8 +51,7 @@ cd credit-risk-dashboard
 3. Run development server
    npm run dev
 
-4. Open your browser to the local URL (usually http://localhost:5173).
-
+4. Open your browser to the local URL (usually `http://localhost:5173`).
 
 ---
 
