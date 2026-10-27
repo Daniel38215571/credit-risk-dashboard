@@ -55,9 +55,11 @@ cd credit-risk-dashboard
 
 ---
 
-## **AUTHOR**
 
-**Anuoluwapo Daniel Ojo**
-**Senior Data Analyst | Data & AI Engineer**
 
-[LinkedIn](https://linkedin.com/in/daniel-ojo-879273197) | [GitHub](https://github.com/Daniel38215571)
+
+ 5. AUTHUR
+>Anuoluwapo Daniel Ojo
+>Senior Data Analyst | Data & AI Engineer
+
+https://www.linkedin.com/in/daniel-ojo-879273197 | https://github.com/Daniel38215571
