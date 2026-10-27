@@ -57,9 +57,9 @@ cd credit-risk-dashboard
 
 
 
+## AUTHUR
 
- 5. AUTHUR
->Anuoluwapo Daniel Ojo
->Senior Data Analyst | Data & AI Engineer
+Anuoluwapo Daniel Ojo
+Senior Data Analyst | Data & AI Engineer
 
-https://www.linkedin.com/in/daniel-ojo-879273197 | https://github.com/Daniel38215571
+!https://www.linkedin.com/in/daniel-ojo-879273197 | !https://github.com/Daniel38215571
