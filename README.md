@@ -54,7 +54,7 @@ cd credit-risk-dashboard
 4. Open your browser to the local URL (usually http://localhost:5173).
 
 
-Author
+## Author
 
 Anuoluwapo Daniel Ojo
 Senior Data Analyst | Data & AI Engineer
