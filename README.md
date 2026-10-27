@@ -7,12 +7,12 @@
 
 ---
 
-## The Business Question
+## 2. The Business Question
 > *"How much money will we lose next quarter, and what is our risk tolerance?"*
 
 This dashboard serves as the **Executive Decision Interface**. It consumes the backend APIs to visualize the Expected Loss (PD × LGD) over a 6-month horizon, complete with 90% confidence intervals. It translates complex machine learning outputs into clear KPI cards and interactive charts for financial stakeholders.
 
-## Architecture & Stack
+## 3. Architecture & Stack
 
 This is a modern, high-performance frontend designed for rapid rendering of financial data.
 
@@ -27,9 +27,7 @@ This is a modern, high-performance frontend designed for rapid rendering of fina
 - **Interactive Forecasting:** A dynamic line chart displaying the expected loss curve alongside the upper confidence bound.
 - **API Integration:** Built with `axios` to seamlessly fetch data from the Python/FastAPI backend.
 
----
-
-## The Full-Stack Ecosystem
+## 4. The Full-Stack Ecosystem
 
 This dashboard is the final layer of a complete, production-grade data system. To see the backend architecture that powers this UI, view the companion repository:
 
@@ -41,25 +39,25 @@ This dashboard is the final layer of a complete, production-grade data system. T
 ## How to Run Locally
 
 1. Clone the repository:
-```bash
-git clone https://github.com/Daniel38215571/credit-risk-dashboard.git
-cd credit-risk-dashboard
 
-2. Install dependencies
-   npm install
+    git clone https://github.com/Daniel38215571/credit-risk-dashboard.git
+    cd credit-risk-dashboard
 
-3. Run development server
-   npm run dev
+2. Install dependencies:
+
+    npm install
+
+3. Run the development server:
+
+    npm run dev
 
 4. Open your browser to the local URL (usually `http://localhost:5173`).
 
 ---
 
+## **AUTHOR**
 
+**Anuoluwapo Daniel Ojo**
+**Senior Data Analyst | Data & AI Engineer**
 
-## AUTHUR
-
-Anuoluwapo Daniel Ojo
-Senior Data Analyst | Data & AI Engineer
-
-!https://www.linkedin.com/in/daniel-ojo-879273197 | !https://github.com/Daniel38215571
+[LinkedIn](https://linkedin.com/in/daniel-ojo-879273197) | [GitHub](https://github.com/Daniel38215571)
